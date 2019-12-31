@@ -1,0 +1,15 @@
+C:\TFS\FortuneCookie\FortuneCookie2\FortuneCookie2\bin\Release\netcoreapp2.1\FortuneCookie2.deps.json
+C:\TFS\FortuneCookie\FortuneCookie2\FortuneCookie2\bin\Release\netcoreapp2.1\FortuneCookie2.runtimeconfig.json
+C:\TFS\FortuneCookie\FortuneCookie2\FortuneCookie2\bin\Release\netcoreapp2.1\FortuneCookie2.runtimeconfig.dev.json
+C:\TFS\FortuneCookie\FortuneCookie2\FortuneCookie2\bin\Release\netcoreapp2.1\FortuneCookie2.dll
+C:\TFS\FortuneCookie\FortuneCookie2\FortuneCookie2\bin\Release\netcoreapp2.1\FortuneCookie2.pdb
+C:\TFS\FortuneCookie\FortuneCookie2\FortuneCookie2\obj\Release\netcoreapp2.1\FortuneCookie2.csproj.CoreCompileInputs.cache
+C:\TFS\FortuneCookie\FortuneCookie2\FortuneCookie2\obj\Release\netcoreapp2.1\FortuneCookie2.RazorAssemblyInfo.cache
+C:\TFS\FortuneCookie\FortuneCookie2\FortuneCookie2\obj\Release\netcoreapp2.1\FortuneCookie2.RazorAssemblyInfo.cs
+C:\TFS\FortuneCookie\FortuneCookie2\FortuneCookie2\obj\Release\netcoreapp2.1\FortuneCookie2.AssemblyInfoInputs.cache
+C:\TFS\FortuneCookie\FortuneCookie2\FortuneCookie2\obj\Release\netcoreapp2.1\FortuneCookie2.AssemblyInfo.cs
+C:\TFS\FortuneCookie\FortuneCookie2\FortuneCookie2\obj\Release\netcoreapp2.1\FortuneCookie2.RazorTargetAssemblyInfo.cache
+C:\TFS\FortuneCookie\FortuneCookie2\FortuneCookie2\obj\Release\netcoreapp2.1\FortuneCookie2.dll
+C:\TFS\FortuneCookie\FortuneCookie2\FortuneCookie2\obj\Release\netcoreapp2.1\FortuneCookie2.pdb
+C:\TFS\FortuneCookie\FortuneCookie2\FortuneCookie2\obj\Release\netcoreapp2.1\FortuneCookie2.csprojAssemblyReference.cache
+C:\TFS\FortuneCookie\FortuneCookie2\FortuneCookie2\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
