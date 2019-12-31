@@ -15,10 +15,10 @@ namespace FortuneCookie2
         // @FortuneDogsay
         // Apps/Dogsay
         // developer.twitter.com
-        static string ConsumerKey = "9g4LLjAmpjoSTmMDB15QoMTu8";
-        static string ConsumerKeySecret = "bjoGvxKzwNoejgeWqqHnlQSnqnLYh6yVdmNi6M3KoSvtl2EgRf";
-        static string AccessToken = "1094043649229377536-GRCvt6sXae9fAWscmsc12t8Hf7b860";
-        static string AccessTokenSecret = "IXfte4erbkgYRSp62QCqgrsRtKYr2FmoavBr0Fp40vrN9";
+        static string ConsumerKey = "XXXXXXXXXXXX";
+        static string ConsumerKeySecret = "XXXXXXXXXXXX";
+        static string AccessToken = "XXXXXXXXXXXX";
+        static string AccessTokenSecret = "XXXXXXXXXXXX";
 
         public static byte[] getCowsayImage(string fcText, bool writeFile = false, bool postTwitter = true)
         {
