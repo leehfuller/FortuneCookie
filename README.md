@@ -9,8 +9,10 @@ Twitter bot services exposed - @FortuneDogsay
 Example use here:
 https://www.fullerdata.com/cookie?show=server
 
+
 Service deployed to Azure here:
 https://fullerdatasvc.azurewebsites.net/fortune/
+
 
 And examples with ASCII cowsay style:
 http://fullerdatasvc.azurewebsites.net/fortune/dogsay
